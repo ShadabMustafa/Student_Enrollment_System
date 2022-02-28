@@ -3,7 +3,6 @@
 #include "student.h"
 #include "degree.h"
 using namespace std;
-// Part D. stuff done 
 //default student constructor
 Student::Student()
 {
