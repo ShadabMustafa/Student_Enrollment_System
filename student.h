@@ -5,7 +5,6 @@
 #include "string"
 #include "degree.h"
 using namespace std;
-// Part D. stuff
 class Student
 {
 
